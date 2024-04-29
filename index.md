@@ -1,3 +1,9 @@
+## How not to fall asleep
+
+- [ ] Walk around 
+- [ ] Think about football
+- [ ] Coffee
+
 # This is an H1 Header, S Tier
 
 Like Jago and Ryu
